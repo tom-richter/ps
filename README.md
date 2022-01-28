@@ -1,7 +1,7 @@
 # PlanetScale Workflow Helper scripts 
 
 ## Test
-hpi
+hpi2
 
 📺 [Recording from live demo at PlanetScale Happy-Half-Hour](https://youtu.be/l3oe7srRUZw?t=610)
 
